@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">appImg</string>
+    <string name="delhi">Delhi</string>
+    <string name="preferred_city">Preferred City:</string>
+    <string name="_18_21">18-21</string>
+    <string name="_22_30">22-30</string>
+    <string name="_30_50">30-50</string>
+    <string name="M">Male</string>
+    <string name="F">Female</string>
+    <string name="O">Others</string>
+    <string name="enter_username">Enter Username:</string>
+    <string name="age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="username">username</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="chennai">Chennai</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="hedgehog">hedgehog</string>
+    <string name="dob">Birthdate</string>
+    <string name="date">Select Date</string>
+</resources>
